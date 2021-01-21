@@ -1,6 +1,6 @@
 # 2021 UCI ICPC Qualifier Solutions
 
-## A - Inlation
+## A - Inflation
 * Greedy Sorting
 
 ## B - Amsterdam Distance
